@@ -3,3 +3,9 @@
 * {
   font-family: "Poppins", serif;
 }
+
+.main-container {
+  display: flex;
+  justify-content: center;
+  gap: 70px;
+}
